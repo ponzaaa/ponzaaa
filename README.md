@@ -1,6 +1,6 @@
 # Hi there, I'm Giovanni Ponzini 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername)
+![Profile Views](https://komarev.com/ghpvc/?username=ponzaaa)
 
 ## About Me
 
