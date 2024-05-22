@@ -35,4 +35,4 @@ I am currently focused on my studies and personal projects, and I am eager to ga
 ## Contact Me
 
 - **Email**: [giovanni.ponzini68@gmail.com]
-- **LinkedIn**: [linkedin.com/in/giovanni-ponzini](https://linkedin.com/in/giovanni-ponzini)
+- **LinkedIn**: [www.linkedin.com/in/giovanni-libero-ponzini-278692272]
