@@ -1,16 +1,12 @@
-# Hi there, I'm Giovanni Ponzini 👋
-
-![Profile Views](https://komarev.com/ghpvc/?username=ponzaaa)
-
 ## About Me
 
 Hi, my name is Giovanni Ponzini. I am currently a first-year student pursuing a Bachelor's degree in Data Science and AI at Maastricht University. On my GitHub, you'll find a collection of my side projects related to Machine Learning, Data Analysis, and Intelligent Systems. I am passionate about music, arts, and sports, and I love developing and creating innovative solutions.
 
 ## Skills and Technologies
 
-- **Languages**: Proficient in Java, currently learning Python and MATLAB
+- **Languages**: Proficient in Java, currently improving Python and learning MATLAB
 - **Technologies**: Machine Learning, Data Analysis, Intelligent Systems
-- **Tools**: Jupyter, TensorFlow, PyTorch, Pandas, NumPy
+- **Tools**: Jupyter, Pandas, NumPy
 
 ## Projects
 
@@ -34,16 +30,9 @@ I am currently focused on my studies and personal projects, and I am eager to ga
 
 ## Certifications and Courses
 
-- **Python Certification**, [Issuing Organization], *Year*
-- **Python Game Development Summer Course**, Politecnico di Milano, *Year*
+- **Python Game Development Summer Course**, Politecnico di Milano, *2021*
 
 ## Contact Me
 
-- **Email**: [giovanni@example.com]
+- **Email**: [giovanni.ponzini68@gmail.com]
 - **LinkedIn**: [linkedin.com/in/giovanni-ponzini](https://linkedin.com/in/giovanni-ponzini)
-- **Twitter**: [twitter.com/giovanniponzini](https://twitter.com/giovanniponzini)
-
-## Personal Interests
-
-I have a deep passion for music, arts, and sports. Outside of my academic and professional pursuits, I enjoy exploring various creative and physical activities. My curiosity and love for innovation drive me to continuously learn and develop new projects.
-
