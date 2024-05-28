@@ -4,9 +4,9 @@ Hi, my name is Giovanni Ponzini. I am currently a first-year student pursuing a 
 
 ## Skills and Technologies
 
-- **Languages**: Proficient in Java, currently improving Python and learning MATLAB
+- **Languages**: Proficient in Java, currently practicing Python and learning MATLAB
 - **Technologies**: Machine Learning, Data Analysis, Intelligent Systems
-- **Tools**: Jupyter, Pandas, NumPy
+- **Tools**: Jupyter, Pandas, NumPy, PyTorch, Scikit
 
 ## Projects
 
